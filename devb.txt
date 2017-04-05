@@ -1,2 +1,6 @@
 hello, dev1
+<<<<<<< Updated upstream
 test2, add
+=======
+tests, add
+>>>>>>> Stashed changes
